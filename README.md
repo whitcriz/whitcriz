@@ -22,7 +22,7 @@
 
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://etiqa.it/static/media/java-spring.0fe5c2cc.png" alt="spring" width="40" height="40"/4 </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.apollo-formation.com/wp-content/uploads/spring-300x293.png" alt="spring" width="40" height="40"/4 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.CzDK7cTTWf2VNuuPvsqcUAHaEj&pid=Api" alt="reactnative" width="70" height="45"/> </a> 
