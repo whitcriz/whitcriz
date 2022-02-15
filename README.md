@@ -10,12 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ummugulsumkarabudak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ummugulsumkarabudak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@u_gulsumkarabud1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@u_gulsumkarabud1" height="30" width="40" /></a>
-<a href="https://dev.to/whitcriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="whitcriz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17181353" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17181353" height="30" width="40" /></a>
-<a href="https://medium.com/@diferensiyelgeometri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diferensiyelgeometri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/whitcriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whitcriz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ummugulsumkarabudak" target="_blank"><img align="center" src="http://www.hcrnetwork.com/wp-content/uploads/2012/11/transparent-Linkedin-logo-icon.png" alt="ummugulsumkarabudak" height="35" width="30" /></a>
+<a href="https://www.hackerrank.com/@u_gulsumkarabud1" target="_blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.z-0_TVwzlDzP8Gj5WQtvzgAAAA&pid=Api" alt="@u_gulsumkarabud1" height="40" width="40" /></a>
+<a href="https://dev.to/whitcriz" target="_blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.dz-jPqh2-8KD61lIQEK8mAHaHa&pid=Api" alt="whitcriz" height="35" width="30" /></a>
+<a href="https://stackoverflow.com/users/17181353" target="_blank"><img align="center" src="https://i.pinimg.com/736x/b4/cd/5d/b4cd5dd5fec22047817848cc6001e6dd.jpg" alt="17181353" height="35" width="30" /></a>
+<a href="https://medium.com/@diferensiyelgeometri" target="_blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.QkSzer_aYnx_DQExVcYPVAHaHa&pid=Api" alt="@diferensiyelgeometri" height="35" width="30" /></a>
+<a href="https://www.leetcode.com/whitcriz" target="_blank"><img align="center" src="https://www.johncanessa.com/wp-content/uploads/2020/09/leetcode_logo-2-300x300.png" alt="whitcriz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
